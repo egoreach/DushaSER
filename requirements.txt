@@ -1,9 +1,0 @@
-aiogram
-scipy
-numpy
-catboost
-librosa
-soundfile
-pydub
-warnings
-joblib
